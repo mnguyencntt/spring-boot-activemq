@@ -1,0 +1,28 @@
+/.gradle/
+/.idea/
+/.idea/*.xml
+/.sts4-cache/
+/.settings/
+/bin/
+/build/
+/target/
+/.classpath
+/.factorypath
+/.project
+/*.iml
+/*.class
+/src/main/resources/application.yml
+
+## IntelliJ IDEA ##
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+## VS Code ##
+.vscode/
+
+## MAC OS##
+.DS_Store
+**/.DS_Store
